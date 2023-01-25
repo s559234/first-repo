@@ -1,5 +1,0 @@
-A Aardvark
-B Bat
-C Cat
-D Duck
-E Elephant
